@@ -1,1 +1,4 @@
-
+interface:
+  display_name: "HFUT 硕士论文格式化"
+  short_description: "将 Markdown 论文排版为 HFUT 硕士学位论文 DOCX。"
+  default_prompt: "Use $thesis-format-hfut-master to format my thesis as a Hefei University of Technology master's dissertation Word document."
